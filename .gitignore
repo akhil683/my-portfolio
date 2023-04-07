@@ -1,0 +1,2 @@
+node_modules 
+# ensure its not encluded in our code repository that send to github
